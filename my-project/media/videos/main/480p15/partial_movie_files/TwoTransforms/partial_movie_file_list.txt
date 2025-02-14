@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/main/480p15/partial_movie_files/TwoTransforms/2289379569_3286516653_3481380946.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/main/480p15/partial_movie_files/TwoTransforms/921762691_2755612354_3481380946.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/main/480p15/partial_movie_files/TwoTransforms/921762691_118436595_3481380946.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/main/480p15/partial_movie_files/TwoTransforms/921762691_3394500337_631829896.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/main/480p15/partial_movie_files/TwoTransforms/921762691_3152080633_622240751.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/main/480p15/partial_movie_files/TwoTransforms/921762691_2043410370_1909981450.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/main/480p15/partial_movie_files/TwoTransforms/921762691_1570027136_2692739811.mp4'

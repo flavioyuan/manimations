@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/main/480p15/partial_movie_files/TransformCycle/2289379569_2688965532_151624741.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/main/480p15/partial_movie_files/TransformCycle/921762691_170044483_578674303.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/main/480p15/partial_movie_files/TransformCycle/921762691_2755612354_578674303.mp4'
