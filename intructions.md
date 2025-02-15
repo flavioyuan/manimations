@@ -14,7 +14,7 @@ uv run manim checkhealth
 1) Criar e inicializar um projeto:
 1.1 Criar uma nova pasta
 
-    $ manim init project my-project --
+    $ uv run manim init project my-project --
 
 
 1.2 Exemplo de código
