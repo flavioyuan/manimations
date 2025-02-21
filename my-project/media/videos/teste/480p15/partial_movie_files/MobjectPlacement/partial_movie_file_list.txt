@@ -1,2 +1,6 @@
 # This file is used internally by FFMPEG.
-file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/teste/480p15/partial_movie_files/MobjectPlacement/2289379569_1432596116_456956260.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/teste/480p15/partial_movie_files/MobjectPlacement/2289379569_1432596116_1078754832.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/teste/480p15/partial_movie_files/MobjectPlacement/921762691_2098250644_3324572879.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/teste/480p15/partial_movie_files/MobjectPlacement/921762691_4217992463_842622906.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/teste/480p15/partial_movie_files/MobjectPlacement/921762691_1911304782_3879490651.mp4'
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/teste/480p15/partial_movie_files/MobjectPlacement/921762691_4217992463_270183771.mp4'
