@@ -1,2 +1,6 @@
 # This file is used internally by FFMPEG.
+<<<<<<< HEAD
 file 'file:C:/Users/yuan_000/Documents/Manim/manimations/manimations/my-project/media/videos/main/480p15/partial_movie_files/SquareAndCircle/2289379569_1363948534_223132457.mp4'
+=======
+file 'file:/home/flavioyuan/Documentos/src/python/manim/manimations/my-project/media/videos/main/480p15/partial_movie_files/SquareAndCircle/2289379569_1206116181_223132457.mp4'
+>>>>>>> b56144b (Add: teste.py)

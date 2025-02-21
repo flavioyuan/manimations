@@ -1,0 +1,98 @@
+[
+    {
+        "name": "1",
+        "type": "default.normal",
+        "video": "DefaultTemplate_0000_1.mp4",
+        "width": 480,
+        "height": 854,
+        "nb_frames": "90",
+        "duration": "3.000000",
+        "avg_frame_rate": "30/1",
+        "codec_name": "h264",
+        "pix_fmt": "yuv420p"
+    },
+    {
+        "name": "2",
+        "type": "default.normal",
+        "video": "DefaultTemplate_0001_2.mp4",
+        "width": 480,
+        "height": 854,
+        "nb_frames": "30",
+        "duration": "1.000000",
+        "avg_frame_rate": "30/1",
+        "codec_name": "h264",
+        "pix_fmt": "yuv420p"
+    },
+    {
+        "name": "3",
+        "type": "default.normal",
+        "video": "DefaultTemplate_0002_3.mp4",
+        "width": 480,
+        "height": 854,
+        "nb_frames": "30",
+        "duration": "1.000000",
+        "avg_frame_rate": "30/1",
+        "codec_name": "h264",
+        "pix_fmt": "yuv420p"
+    },
+    {
+        "name": "4",
+        "type": "default.normal",
+        "video": "DefaultTemplate_0003_4.mp4",
+        "width": 480,
+        "height": 854,
+        "nb_frames": "120",
+        "duration": "4.000000",
+        "avg_frame_rate": "30/1",
+        "codec_name": "h264",
+        "pix_fmt": "yuv420p"
+    },
+    {
+        "name": "5",
+        "type": "default.normal",
+        "video": "DefaultTemplate_0004_5.mp4",
+        "width": 480,
+        "height": 854,
+        "nb_frames": "90",
+        "duration": "3.000000",
+        "avg_frame_rate": "30/1",
+        "codec_name": "h264",
+        "pix_fmt": "yuv420p"
+    },
+    {
+        "name": "6",
+        "type": "default.normal",
+        "video": "DefaultTemplate_0005_6.mp4",
+        "width": 480,
+        "height": 854,
+        "nb_frames": "90",
+        "duration": "3.000000",
+        "avg_frame_rate": "30/1",
+        "codec_name": "h264",
+        "pix_fmt": "yuv420p"
+    },
+    {
+        "name": "7",
+        "type": "default.normal",
+        "video": "DefaultTemplate_0006_7.mp4",
+        "width": 480,
+        "height": 854,
+        "nb_frames": "90",
+        "duration": "3.000000",
+        "avg_frame_rate": "30/1",
+        "codec_name": "h264",
+        "pix_fmt": "yuv420p"
+    },
+    {
+        "name": "8",
+        "type": "default.normal",
+        "video": "DefaultTemplate_0007_8.mp4",
+        "width": 480,
+        "height": 854,
+        "nb_frames": "90",
+        "duration": "3.000000",
+        "avg_frame_rate": "30/1",
+        "codec_name": "h264",
+        "pix_fmt": "yuv420p"
+    }
+]
